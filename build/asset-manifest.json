@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tilon/static/css/main.0a12b113.css",
+    "main.js": "/tilon/static/js/main.cd7897d4.js",
+    "static/media/banner_01.png": "/tilon/static/media/banner_01.6333478ffe6193ebe980.png",
+    "static/media/logo_02.png": "/tilon/static/media/logo_02.0d23b084edca0834baac.png",
+    "static/media/banner_02.png": "/tilon/static/media/banner_02.d02540405ec1d6a1f99e.png",
+    "static/media/logo_01.png": "/tilon/static/media/logo_01.3f5f80db2989b7f93314.png",
+    "index.html": "/tilon/index.html",
+    "main.0a12b113.css.map": "/tilon/static/css/main.0a12b113.css.map",
+    "main.cd7897d4.js.map": "/tilon/static/js/main.cd7897d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a12b113.css",
+    "static/js/main.cd7897d4.js"
+  ]
+}
